@@ -17,9 +17,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="820-fi-pau">
-                                <rect key="frame" x="114.66666666666667" y="503.33333333333326" width="163.66666666666663" height="35"/>
+                                <rect key="frame" x="105.33333333333333" y="503.33333333333326" width="182.66666666666669" height="35"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Нажми на кнопку"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Нажми на кнопочку"/>
                                 <connections>
                                     <action selector="addNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Fa5-ho-DOE"/>
                                 </connections>
